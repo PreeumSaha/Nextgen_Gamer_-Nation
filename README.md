@@ -31,8 +31,7 @@ This project was developed during an internship at **Acote Group** as part of an
    ```bash
    git clone https://github.com/PreeumSaha/Nextgen_Gamer_-Nation.git
 
-   ## 📄 Project Report
 
 ## You can view or download the full internship report here:  
-👉 [Nextgen Gamer Nation - PDF Report](https://github.com/PreeumSaha/Nextgen_Gamer_-Nation/blob/main/report.pdf)
+ [Nextgen Gamer Nation - PDF Report]((https://github.com/PreeumSaha/Nextgen_Gamer_-Nation/Report/2031144_Preeum_Saha_Internship_Report.pdf))
 
